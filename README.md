@@ -1,5 +1,5 @@
 # TheFirstDescendantSDK
-An Unofficial dotnet / csharp SDK for https://openapi.nexon.com/my-application/122230/
+An Unofficial dotnet / csharp SDK for https://openapi.nexon.com/
 
 Work In Progress. Feel free to make pull requests to improve. Example code worked for me :)
 
