@@ -1,4 +1,4 @@
-# TheFirstDescendantSDK
+# The First Descendant API SDK
 An Unofficial dotnet / csharp SDK for [Nexon's OpenAPI for The First Descendant](https://openapi.nexon.com/game/tfd/?id=20)
 
 Work In Progress. Feel free to make pull requests to improve. Example code worked for me :)
