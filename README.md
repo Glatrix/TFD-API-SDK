@@ -3,6 +3,8 @@ An Unofficial dotnet / csharp SDK for [Nexon's OpenAPI for The First Descendant]
 
 Work In Progress. Feel free to make pull requests to improve. Example code worked for me :)
 
+Credit To [FraWolf's tfd-api](https://github.com/FraWolf/tfd-api) for some of the models
+
 ```csharp
 using TfdApiSDK;
 using TfdApiSDK.Models.General;
